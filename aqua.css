@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+
+}
+
+#header{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    text-align: end;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    
+    
+}
+
+#header a{
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+
+    
+}
+
+#header a:hover{
+    color: black;
+}
+
+
+#content{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    
+    
+}
+
+#footer{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    
+}
